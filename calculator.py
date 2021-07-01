@@ -1,3 +1,5 @@
+
+# All success
 class Calculator:
 
   def __init__(self, x1, x2):
