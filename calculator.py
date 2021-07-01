@@ -15,3 +15,9 @@ class Calculator:
 
   def divide(self):
     return self.x1 / self.x2
+
+  def hello(self):
+    some_var = 1
+    str = "Hello, I'm a smelly code"
+    print(str)
+    print(some_var); pass
